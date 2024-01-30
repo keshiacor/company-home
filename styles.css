@@ -42,7 +42,7 @@ header h1{
 }
 
 .mission {
-  background-image: url(./push.jpeg);
+  background-image: url(push.jpeg);
   color: rgb(255,255,255);
   height: 700px;
   background-repeat: no-repeat;
