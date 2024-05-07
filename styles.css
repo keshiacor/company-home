@@ -13,8 +13,7 @@ header {
 #logo1{
   width:10%;
   height:10%;
-  
-  margin: 0 80%;
+  margin: 0 40%;
 }
 .navbar {
   display:flex;
